@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Prajwal Kambale</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
