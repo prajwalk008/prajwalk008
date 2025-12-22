@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prajwal Kambale</h1>
-<h3 align="center"> Competitive Programmer | Backend Dev | ML Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
 ---
 ### 🚀 About Me
