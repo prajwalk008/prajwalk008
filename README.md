@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwalk008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prajwalk008&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" height="180"/>
 </p>
 
 <p align="center">
