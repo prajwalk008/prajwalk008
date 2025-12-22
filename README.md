@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prajwal Kambale</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast" alt="Typing SVG" /></a>
 ---
 ### 🚀 About Me
 - 👷 Currently pursuing B.Tech in Information Technology(2023-2027) from National Institute of Technology, Raipur
