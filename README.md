@@ -65,6 +65,8 @@
 
 ---
 
+![3D Graph](https://github-profile-trophy.vercel.app/?username=prajwalk008&theme=flat&no-frame=true&margin-w=15)
+
 ## Activity Graph
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwalk008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
