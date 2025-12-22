@@ -1,9 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Prajwal Kambale</h1>
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=Competitive+Programmer+%7C+Backend+Dev+%7C+ML+Enthusiast"
+      alt="Typing SVG"
+    />
   </a>
-</p>
+</div>
 
 ---
 ### 🚀 About Me
