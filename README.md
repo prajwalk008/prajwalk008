@@ -65,7 +65,8 @@
 
 ---
 
-![3D Graph](https://github-profile-trophy.vercel.app/?username=prajwalk008&theme=flat&no-frame=true&margin-w=15)
+## 🧊 My 3D Contributions
+![3D Graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Activity Graph
 <p align="center">
