@@ -72,7 +72,7 @@
   <img src="https://komarev.com/ghpvc/?username=prajwalk008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Snake Animation](https://github.com/prajwalk008/prajwalk008/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
